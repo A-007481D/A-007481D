@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [linkedin.com](linkedin.com)
 
-- 💬 Ask me about **AWS Cloud services,**
+- 💬 Ask me about **AWS Cloud services & Technology**
 
 - 📫 How to reach me **labidabdelmalek@gmail.com**
 

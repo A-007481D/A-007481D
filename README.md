@@ -1,3 +1,5 @@
+<center><img src="file:///C:/Users/MY%20PC/Downloads/tumblr_54805606e41234da265775f4ee8631ef_c86995dd_1280.gif" alt=""></center>
+
 <h1 align="center">Hi 👋, I'm Abdelmalek</h1>
 <h3 align="center">AWS Solutions Architect, Passionate about Cloud & Software Engineering</h3>
 

@@ -13,9 +13,9 @@
 
 <!-- CONTRIBUTOR BADGE -->
 <p>
-  <a href="#github-repositories"><img     
-src="https://camo.githubusercontent.com/50b7359617be4555b7d3aa6db8cbe3a10cff5f43384a6912cc139ffa5e288282/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f70656e253230536f757263652d436f6e7472696275746f722d707572706c65" alt="Open Source" data-canonical-src="https://img.shields.io/badge/Open%20Source-Contributor-purple" style="max-width: 100%;"></a>
-</p>
+<!--   <a href="#github-repositories"><img     
+src="https://camo.githubusercontent.com/50b7359617be4555b7d3aa6db8cbe3a10cff5f43384a6912cc139ffa5e288282/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f70656e253230536f757263652d436f6e7472696275746f722d707572706c65" alt="Open Source" data-canonical-src="https://img.shields.io/badge/Open%20Source-Contributor-purple" style="max-width: 100%;"></a> -->
+</p> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a-007481d&label=Profile%20views&color=690eb4&style=flat" alt="a-007481d" /> </p>
 

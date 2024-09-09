@@ -2,7 +2,7 @@
 <p>
     <center>
       <strong>
-        <bold>A Cloud Architect</bold>
+        <!-- <bold>Cloud Architect</bold> -->
       </strong>
 <!-- moroccan flag -->
       Based in
@@ -22,7 +22,7 @@ src="https://camo.githubusercontent.com/50b7359617be4555b7d3aa6db8cbe3a10cff5f43
 <!-- GITHUB EMOJI -->
 <p>
     <img class="emoji" title=":octocat:" alt=":octocat:" src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="20" width="20" align="absmiddle">
-I'm interested in Cloud Computing, Data Science & Web Development Collabs.
+I'm interested in Cloud Computing, Data Science & Web Development.
 </p>
 
 <!-- 8bit GIF -->
@@ -33,7 +33,7 @@ I'm interested in Cloud Computing, Data Science & Web Development Collabs.
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://user-images.githubusercontent.com/5251806/172527073-8b11f1a9-c1c9-4d25-b18b-93aa1e37f2de.gif" target="_blank">       
 </div>
 
-<p>🧑‍💻 Currently Studying Computer Science at 1337 & YouCode, and Cloud & DevOps Engineering.</p>
+<p>🧑‍💻 Currently Studying Computer Science at YouCode.</p>
 
 <!-- BIG ASS LOGOS -->
 
@@ -64,9 +64,9 @@ I'm interested in Cloud Computing, Data Science & Web Development Collabs.
 <p dir="auto"><strong>AWS Certifications</strong></p>
 <p dir="auto">
   <a href="https://www.credly.com/badges/095b727d-c089-4956-bd36-1dff7a074bdd" title="AWS Certified Cloud Practitioner" rel="nofollow"><img src="https://images.credly.com/size/120x120/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" data-canonical-src="https://images.credly.com/size/120x120/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png" style="max-width: 120%;"></a>  
-  <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-solutions-architect-associate" title="AWS Certified Solutions Architect – Associate" rel="nofollow"><img src="https://images.credly.com/size/120x120/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" data-canonical-src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" style="max-width: 100%;"></a>  
+  <!-- <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-solutions-architect-associate" title="AWS Certified Solutions Architect – Associate" rel="nofollow"><img src="https://images.credly.com/size/120x120/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" data-canonical-src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" style="max-width: 100%;"></a>  
   <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-developer-associate" title="AWS Certified Developer – Associate" rel="nofollow"><img src="https://images.credly.com/size/120x120/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" data-canonical-src="https://images.credly.com/size/120x120/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" style="max-width: 100%;"></a> 
-  <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-devops-engineer-professional" title="AWS Certified DevOps Engineer – Professional" rel="nofollow"><img src="https://images.credly.com/size/120x120/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" alt="AWS Certified DevOps Engineer – Professional" data-canonical-src="https://images.credly.com/size/120x120/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" style="max-width: 100%;"></a>   
+  <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-devops-engineer-professional" title="AWS Certified DevOps Engineer – Professional" rel="nofollow"><img src="https://images.credly.com/size/120x120/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" alt="AWS Certified DevOps Engineer – Professional" data-canonical-src="https://images.credly.com/size/120x120/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" style="max-width: 100%;"></a>   -->
   <a href="https://www.credly.com/badges/aaff2bc6-d653-4510-8606-45593fc2ebcc"title="AWS Knowledge: Architecting" rel="nofollow"><img src="https://images.credly.com/size/125x125/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png" alt="AWS Knowledge: Architecting" data-canonical-src="https://images.credly.com/size/125x125/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" style="max-width: 100%;"></a>
   
 
@@ -90,7 +90,7 @@ I'm interested in Cloud Computing, Data Science & Web Development Collabs.
 
 **Programming & Scripting Languages:**
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a><a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <!-- <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
+<!-- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> --> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <!--<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <!-- <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <!-- <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <!-- <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
 <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> </a> -->
 
 

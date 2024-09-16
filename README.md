@@ -2,12 +2,13 @@
 <p>
     <center>
       <strong>
-        <!-- <bold>Cloud Architect</bold> -->
+        <bold>A Cloud enthusiast</bold>
       </strong>
 <!-- moroccan flag -->
+	    <p>
       Based in
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/243aa3eaf36fe291b09c5dffc9e45c97fa59f826d7d6241f1b381c6b86a26c81/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3139372f3139373535312e706e67">
-        <img src="https://camo.githubusercontent.com/243aa3eaf36fe291b09c5dffc9e45c97fa59f826d7d6241f1b381c6b86a26c81/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3139372f3139373535312e706e67" width="13" data-canonical-src="https://cdn-icons-png.flaticon.com/512/197/197551.png" style="max-width: 100%;"></a>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="">
+        <img src="https://cdn-icons-png.flaticon.com/512/197/197551.png" width="13" data-canonical-src="<img src="https://cdn-icons-png.flaticon.com/512/197/197551.png" style="max-width: 100%;"> </p> </a>
     </center>
 </p>   
 
@@ -39,7 +40,7 @@ I'm interested in Cloud Computing, Data Science & Web Development.
 
 <p align="center" dir="auto">
   <img width=250px src="https://avatars.githubusercontent.com/u/108390987?s=280&v=4" alt="ALx" height="200" style="max-width: 100%;">
-  <img width=250px src="https://camo.githubusercontent.com/4ec723080b83573e186d5b9e9fd231db53511e36790b4b724674f2deab8b3330/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e6439476354526d2d696b5067437148466957756768584b57703867683834674e6a437a5736632d6653635757384c7374472d7353616d545f4e473549664b4d44636b616545644b317326757371703d434155" alt="1337" height="200" style="max-width: 100%;">
+<!--   <img width=250px src="https://camo.githubusercontent.com/4ec723080b83573e186d5b9e9fd231db53511e36790b4b724674f2deab8b3330/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e6439476354526d2d696b5067437148466957756768584b57703867683834674e6a437a5736632d6653635757384c7374472d7353616d545f4e473549664b4d44636b616545644b317326757371703d434155" alt="1337" height="200" style="max-width: 100%;"> -->
   <img width=250px src="https://www.svgrepo.com/show/376356/aws.svg" alt="aws" height="200" style="max-width: 100%;">
 
 -------

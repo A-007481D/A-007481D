@@ -62,7 +62,7 @@ I'm interested in Cloud Computing, Data Science & Software Development.
 <!--   <li>Proficient in desigining well-architected distributed systems that are scalable, resilient, efficient, and fault-tolerant. With hands-on experience in the AWS Cloud.</li>
   <!-- <li>Holding two certificates from Harvard university in Computer Science</li> --> 
   </ul>
-<p dir="auto"><strong>AWS Certifications</strong></p>
+<p dir="auto"><strong>AWS Certifications</strong> </p>
 <p dir="auto">
   <a href="https://www.credly.com/badges/095b727d-c089-4956-bd36-1dff7a074bdd" title="AWS Certified Cloud Practitioner" rel="nofollow"><img src="https://images.credly.com/size/120x120/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" data-canonical-src="https://images.credly.com/size/120x120/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png" style="max-width: 120%;"></a>  
   <!-- <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-solutions-architect-associate" title="AWS Certified Solutions Architect – Associate" rel="nofollow"><img src="https://images.credly.com/size/120x120/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" data-canonical-src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" style="max-width: 100%;"></a>  

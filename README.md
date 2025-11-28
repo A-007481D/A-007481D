@@ -23,7 +23,7 @@ src="https://camo.githubusercontent.com/50b7359617be4555b7d3aa6db8cbe3a10cff5f43
 <!-- GITHUB EMOJI -->
 <p>
     <img class="emoji" title=":octocat:" alt=":octocat:" src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="20" width="20" align="absmiddle">
-I'm interested in Cloud Computing, Data Science & Software Development.
+I'm interested in Cloud Computing & Software Engineering.
 </p>
 
 <!-- 8bit GIF -->

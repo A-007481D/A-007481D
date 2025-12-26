@@ -1,8 +1,8 @@
- <h1 align="center">Hi there stranger👋,I'm Abdelmalek.</h1>
+<!-- <h1 align="center">Hi there stranger👋,I'm Abdelmalek.</h1> -->
 <p>
     <center>
       <strong>
-        <bold>Fullstack web dev</bold>
+        <bold>Software Developer</bold>
       </strong>
 <!-- moroccan flag -->
 	    <p>
@@ -23,7 +23,7 @@ src="https://camo.githubusercontent.com/50b7359617be4555b7d3aa6db8cbe3a10cff5f43
 <!-- GITHUB EMOJI -->
 <p>
     <img class="emoji" title=":octocat:" alt=":octocat:" src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="20" width="20" align="absmiddle">
-I'm interested in Cloud Computing & Software Engineering.
+I'm interested in Cloud Computing, Software Engineering & Blockchain.
 </p>
 
 <!-- 8bit GIF -->
@@ -34,7 +34,7 @@ I'm interested in Cloud Computing & Software Engineering.
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://user-images.githubusercontent.com/5251806/172527073-8b11f1a9-c1c9-4d25-b18b-93aa1e37f2de.gif" target="_blank">       
 </div>
 
-<p>🧑‍💻 Currently Studying Computer Science at YouCode.</p>
+<p>🧑‍💻 Currently Developping Software at YouCode.</p>
 
 <!-- BIG ASS LOGOS -->
 

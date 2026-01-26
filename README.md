@@ -160,7 +160,6 @@ I'm interested in Cloud Computing, Software Engineering & Blockchain.
 
 <!-- <div dir="auto">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fe754c47baa8b2172fc70171165d7411a770cd23098d349664ed5b2c81045b54/68747470733a2f2f6f776c6265727473696f2d726573697a65642e73332e616d617a6f6e6177732e636f6d2f506f707065722e7073642e66756c6c2e706e67"><img align="right" width="40%" src="https://camo.githubusercontent.com/fe754c47baa8b2172fc70171165d7411a770cd23098d349664ed5b2c81045b54/68747470733a2f2f6f776c6265727473696f2d726573697a65642e73332e616d617a6f6e6177732e636f6d2f506f707065722e7073642e66756c6c2e706e67" data-canonical-src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" style="max-width: 100%;"></a> -->
-</div>
 
 <!-- PROJECTS -->
 
@@ -186,7 +185,7 @@ I'm interested in Cloud Computing, Software Engineering & Blockchain.
 <!--   <li>Check out my <a href="" rel="nofollow">Website</a> </li> -->
 <!--   <li>I share updates on my <a href="https://www.linkedin.com/in/abdelmalek-labid/" rel="nofollow">LinkedIn</a> 📫</li> -->
 <!--   <li>My <a href="">Portfolio</a> 👨🏼‍💻💼</li>
-  <li>Contact me on <a href="" rel="nofollow">Twitter</a> 📫</li> -->
+  <li>Contact me on <a href="" rel="nofollow">Twitter</a> 📫</li>
   </ul>
 
 
@@ -194,15 +193,16 @@ I'm interested in Cloud Computing, Software Engineering & Blockchain.
 
 
 
- <!-- REACTIVATE LATER -->
+ <!-- REACTIVATE STATS LATER -->
+ 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-007481d&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="a-007481d" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-007481d&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="a-007481d" /></p> 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a-007481d&show_icons=true&theme=tokyonight&title_color=000000&bg_color=fcfcfc&locale=en" alt="a-007481d"/><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a-007481d&theme=dark" alt="a-007481d" /></p>
 
  <!-- GITHUB TROPHYS -->
- 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-007481d" alt="a-007481d" /></a> </p>
+ <!-- disabled -->
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-007481d" alt="a-007481d" /></a> </p> -->
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">

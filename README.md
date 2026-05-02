@@ -1,6 +1,6 @@
 <div align="center">
 
-# Abdelmalek Labid
+<!-- # Abdelmalek Labid -->
 
 ### Engineer • Builder • Systems Thinker
 

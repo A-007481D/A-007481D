@@ -57,12 +57,14 @@ Current interests:
 ### Languages
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="42"/>
+<img src="https://rust-lang.org/logos/rust-logo-512x512.png" width="42"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="42"/>
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="42"/>
+    <img src="https://icon.icepanel.io/Technology/png-shadow-512/Solidity.png" width="42"/>
+
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42"/> -->
+<img src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.png" width="42"/>
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="42"/> -->
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="42"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42"/>
 </p>
@@ -80,11 +82,12 @@ Current interests:
 <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="42"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="42"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="42"/>
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="42"/>
 </p>
 <p align="left">
-<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="42"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42"/>
+<img src="https://icon.icepanel.io/Technology/svg/Arch-Linux.svg" width="42"/>
 <img src="https://www.svgrepo.com/show/355338/ubuntu.svg" width="42"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="42"/>

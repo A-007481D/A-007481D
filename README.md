@@ -12,7 +12,7 @@ Morocco 🇲🇦
 
 </div>
 
----
+--- 
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/5251806/172527073-8b11f1a9-c1c9-4d25-b18b-93aa1e37f2de.gif" width="100%">

@@ -130,7 +130,6 @@ status:
 </p>
 
 <p align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=A-007481D&theme=tokyo-night&hide_border=true"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=a-007481d&theme=tokyonight&hide_border=true"/>
 </p>
 

@@ -122,14 +122,15 @@ status:
 ## Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=a-007481d&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=A-007481D&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-007481d&layout=compact&theme=tokyonight&hide_border=true"/>
+ <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=A-007481D&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,blade,php"/>
 </p>
 
 <p align="center">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=A-007481D&theme=tokyo-night&hide_border=true"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=a-007481d&theme=tokyonight&hide_border=true"/>
 </p>
 

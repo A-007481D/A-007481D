@@ -121,17 +121,15 @@ status:
 
 ## Activity
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=A-007481D&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
+</p> -->
 
 <p align="center">
- <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=A-007481D&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,blade,php"/>
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=A-007481D&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,blade,php"/>
+  <img height="180" src="https://streak-stats.demolab.com?user=A-007481D&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a-007481d&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 

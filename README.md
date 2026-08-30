@@ -126,7 +126,7 @@ status:
 </p> -->
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=A-007481D&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,blade,php"/>
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=A-007481D&layout=compact&theme=tokyonight&hide_border=true&langs_count=18&hide=html,blade,php,javascript"/>
   <img height="180" src="https://streak-stats.demolab.com?user=A-007481D&theme=tokyonight&hide_border=true"/>
 </p>
 

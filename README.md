@@ -4,7 +4,7 @@
 
 ### Engineer • Builder • Systems Thinker
 
-Building reliable systems, distributed infrastructure, and low-level software.
+Building reliable systems, distributed infrastructure, and performance-oriented software.
 
 Morocco 🇲🇦
 
@@ -25,14 +25,15 @@ $ whoami
 
 Engineer focused on building scalable software,
 distributed systems, automation tooling,
-cloud-native infrastructure, and low-level systems.
+cloud-native infrastructure, and performance-oriented systems.
 
 Current interests:
 > Distributed consensus
 > Infrastructure orchestration
 > Systems programming
 > Reliability engineering
-> Storage engines
+> Platform engineering
+> Storage internals
 > Performance optimization
 ```
 
